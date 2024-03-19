@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me havishshah2186@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like working out apart form coding, whick keeps me going.
+- ⚡ Fun fact: I am a fast learner.
 
 <!---
 havish-shah/havish-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
